@@ -484,7 +484,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 · Issues: GitHub Issues
 · Discussions: GitHub Discussions
-· Email: support@alignment-virus.com
 · Documentation: Read the Docs
 
 <div align="center">
