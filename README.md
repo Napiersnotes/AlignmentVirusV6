@@ -1,9 +1,10 @@
-🔬 Alignment Virus V6 - AI Alignment Research Platform
+🔬 Alignment Virus V6 - AI  
+Alignment Research Platform  
 
-https://github.com/Napiersnotes/AlignmentVirusV6/actions/workflows/python-app.yml/badge.svg
-https://img.shields.io/badge/python-3.11+-blue.svg
-https://img.shields.io/badge/license-MIT-green.svg
-https://img.shields.io/badge/release-v6.0.0-orange.svg
+![Build Status](https://github.com/Napiersnotes/AlignmentVirusV6/actions/workflows/python-app.yml/badge.svg)
+![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)
+![License MIT](https://img.shields.io/badge/license-MIT-green.svg)
+![Release v6.0.0](https://img.shields.io/badge/release-v6.0.0-orange.svg)
 
 Advanced AI Alignment Testing & Research Framework - A cutting-edge platform for simulating, analyzing, and understanding alignment properties in artificial intelligence systems.
 
